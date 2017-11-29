@@ -114,9 +114,6 @@
 		_destroy: function() {
 			this.wrapper.remove();
 			this.element.show();
-		},
-		toto: function() {
-			alert('toto');
 		}
 	});
 })( jQuery );
